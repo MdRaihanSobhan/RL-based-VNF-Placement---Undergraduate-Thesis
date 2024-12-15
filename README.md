@@ -25,9 +25,15 @@ Follow the official instructions to install [Docker](https://docs.docker.com/eng
 
 ### 3. Navigate to the Project Directory
 Change to the relevant directory in the project:
+- For DEFT (Original Paper)
 ```bash
-cd src/txts_unit
+cd DEFT/src/txts_unit
 ```
+- For our work, DeftRL 
+```bash
+cd DeftRL-Revised/src/txts_unit
+```
+
 
 ### 4. Run the Test Script
 Execute the test runner script to start the system:
