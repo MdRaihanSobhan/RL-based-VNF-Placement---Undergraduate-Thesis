@@ -34,14 +34,17 @@ cd DEFT/src/txts_unit
 cd DeftRL-Revised/src/txts_unit
 ```
 
-
-### 4. Run the Test Script
+### 4. Add the .env file
+- Create a file .env inside src/txts_unit directory. 
+- Copy the contents of .env.example from the same directory and paste them into the .env file you created. Save the file.
+  
+### 5. Run the Test Script
 Execute the test runner script to start the system:
 ```bash
 sudo -E bash test_runner.sh
 ```
 
-### 5. Install Necessary Libraries and Tools (if needed)
+### 6. Install Necessary Libraries and Tools (if needed)
 If the script encounters missing dependencies, install them using the package manager or relevant commands provided in the error logs.
 
 ---
