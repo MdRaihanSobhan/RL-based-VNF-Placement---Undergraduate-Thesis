@@ -1,4 +1,4 @@
-# Reinforcement Learning-driven Optimal Placement of Virtual Network Functions in a Distributed Network for Fault Tolerant State Replication and Migration
+# Deep Reinforcement Learning-driven Optimal Placement of Virtual Network Functions in a Distributed Network for Fault Tolerant State Replication and Migration
 
 This project builds upon the baseline paper: [**DEFT: Distributed, Elastic, and Fault-tolerant State Management of Network Functions**](https://arxiv.org/pdf/2311.18595). The original DEFT system chooses servers for placing VNFs (Virtual Network Functions) without leveraging intelligent decision-making. 
 
