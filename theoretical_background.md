@@ -60,5 +60,13 @@ By integrating RL-driven optimal placement strategies, we aim to enhance NFV dep
 **Supervised by:** Dr. Rezwana Reaz  
 **Duration:** November 2023 – Present
 
+## At A Glance 
+- • Developed a DRL‐based VNF placement strategy to minimize state migration and replication overhead in NFV
+- • Enhanced DEFT’s state management system for better resilience, scalability, and resource optimization
+- • Implemented a PPO‐based RL approach for optimal VNF placement, improving latency, throughput, packet drops, and overload mitigation
+- • Ensured the deployment of primary and backup VNFs on separate servers, eliminating single points of failure
+- • Incorporated server capacity constraints into our reward function to proactively mitigate future overload scenarios
+
+
 ## Conclusion
 Our RL-based approach optimizes VNF placement, reducing the overhead of state migration and replication while ensuring system resilience and efficiency. By improving upon the DEFT state management system, our work aims to create a more scalable and fault-tolerant network architecture.
