@@ -23,6 +23,7 @@ We build upon the existing DEFT system, which is designed for fault tolerance an
 - **Feature Extraction & Policy Network:** 
   - A **state matrix** is generated based on network conditions and incoming requests.
   - A **four-layer neural network** processes the matrix:
+    - **Input Layer:** Receives the state matrix representing network conditions.
     - **Convolutional Layer:** Learns spatial patterns in the network topology.
     - **Softmax Layer:** Outputs probability distributions for node selection.
     - **Filtering Layer:** Removes infeasible nodes and selects the highest-probability node for VNF instantiation.
