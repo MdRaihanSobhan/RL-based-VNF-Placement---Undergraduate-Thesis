@@ -52,12 +52,3 @@ If the script encounters missing dependencies, install them using the package ma
 ## Additional Information
 
 For any questions or troubleshooting, please refer to the documentation in the project directory or contact the contributors. Contributions are welcome to further improve the system's performance and functionality.
-
-
-
-# Results
-><img src ="./README_ASSETS/latency.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
-><img src ="./README_ASSETS/packet_dropped.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
-><img src ="./README_ASSETS/path_latency.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
-><img src ="./README_ASSETS/time_in_input_buffer.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
-><img src ="./README_ASSETS/input_buffer_max_length.png"  width="60%" style="display: block;margin-left: auto;margin-right: auto;">
