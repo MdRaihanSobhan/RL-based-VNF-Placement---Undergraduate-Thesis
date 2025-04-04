@@ -2,7 +2,7 @@
 
 This project builds upon the baseline paper: [**DEFT: Distributed, Elastic, and Fault-tolerant State Management of Network Functions**](https://arxiv.org/pdf/2311.18595). The original DEFT system chooses servers for placing VNFs (Virtual Network Functions) without leveraging intelligent decision-making. 
 
-- Have a look at the [Extended Abstract](/Extended Abstract.pdf)
+- Have a look at the [Extended Abstract](/Extended%20Abstract.pdf)
 
 Our enhancement incorporates a **Reinforcement Learning (RL) Algorithm** to optimize the placement of VNFs, improving key metrics such as:
 
